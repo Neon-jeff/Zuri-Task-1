@@ -19,3 +19,4 @@ class myModule():
             return False
         else:
             return True
+
